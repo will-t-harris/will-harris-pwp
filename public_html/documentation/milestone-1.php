@@ -11,7 +11,7 @@
 		<h2>Audience</h2>
 		<p>Potential employers and collaborators.</p>
 		<h2>Goal</h2>
-		<p>To acquire full-time employment as a Junior Developer. (Websites or any other web technology...I'd really like to work on web browsers eventually)</p>
+		<p>To acquire full-time employment as a Junior Developer. (Websites or any other web technology...I'd really like to work on privacy software/privacy focused web browsers(firefox, brave, duck duck go) eventually)</p>
 		<h2>Persona</h2>
 		<p>Persona goes here</p>
 	</body>
