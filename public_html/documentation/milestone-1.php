@@ -7,9 +7,9 @@
 	<body>
 		<h1>PWP Milestone 1</h1>
 		<h2>Purpose</h2>
-		<p>I want my PWP to be a resource I can show potential employers to showcase my development skills in order to get a job as a Junior Developer.</p>
+		<p>I want my PWP to be a resource I can show potential employers to showcase my development skills in order to get a job as a Junior Developer.  I also think it will be helpful as a resource to show potential collaborators for independent projects (open source, small projects, etc)</p>
 		<h2>Audience</h2>
-		<p>Potential employers.</p>
+		<p>Potential employers and collaborators.</p>
 		<h2>Goal</h2>
 		<p>To acquire full-time employment as a Junior Developer. (Websites or any other web technology...I'd really like to work on web browsers eventually)</p>
 		<h2>Persona</h2>
