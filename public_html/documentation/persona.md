@@ -1,7 +1,7 @@
 # Persona -- First time visitor
 ## Name: Bob Needadev
 ## Age: 48
-## Company: Descartes Labs
+## Company: NM Dev Lab
 
 ### Needs/Wants to find
 * Team-player with strong communication/inter-personal skills
