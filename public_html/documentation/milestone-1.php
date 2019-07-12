@@ -26,6 +26,10 @@
 			<li>Dev with willingness to learn Python</li>
 			<li>* Dev with a strong grasp of VCS and a strong version control workflow</li>
 		</ul>
+		<h3>Hobbies/Interests</h3>
+		<ul>
+
+		</ul>
 		<p>Persona goes here</p>
 	</body>
 </html>
