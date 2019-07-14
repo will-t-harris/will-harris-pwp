@@ -15,9 +15,10 @@
 		<h2>Persona</h2>
 		<img src="bob-needadev.jpg" alt="image of bob needadev" />
 		<ul>
-			<li>Name: Bob Needadev</li>
-			<li>Age: 40</li>
-			<li>Company: NM Dev Lab</li>
+			<li><strong>Name:</strong> Bob Needadev</li>
+			<li><strong>Age:</strong> 40</li>
+			<li><strong>Profession:</strong> NM Dev Lab co-founder and head of technical security.  Looking for an experienced full-stack web developer to bring on as a Junior Developer.</li>
+			<li><strong>Technology:</strong></li>
 		</ul>
 		<h3>Needs/Wants to Find</h3>
 		<ul>
