@@ -34,7 +34,9 @@
 		</ul>
 		<h3>Hobbies/Interests</h3>
 		<ul>
-			<li></li>
+			<li>Enjoys endurance sports: marathon runner, road cyclist, distance swimmer.  Training for the Iron Man triathlon.</li>
+			<li>Avid Skier, buys the Taos Pass every year since moving to NM.</li>
+			<li>Likes good food, fancy meals.</li>
 		</ul>
 		<p>Persona goes here</p>
 	</body>
