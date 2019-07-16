@@ -27,9 +27,14 @@
 			<li>Dev with willingness to learn Python</li>
 			<li>* Dev with a strong grasp of VCS and a strong version control workflow</li>
 		</ul>
+		<h3>Technology</h3>
+		<ul>
+			<li>Mac power user, iMac Pro desktop at home, MacBook Pro laptop, fancy iPhone Xr, Apple Watch Series 4</li>
+			<li>Works mainly with Python for data analysis/visualisation</li>
+		</ul>
 		<h3>Hobbies/Interests</h3>
 		<ul>
-
+			<li></li>
 		</ul>
 		<p>Persona goes here</p>
 	</body>
