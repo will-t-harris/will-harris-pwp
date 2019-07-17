@@ -30,7 +30,7 @@
 		<ul>
 			<li>Wants to find a team player with strong communication/inter-personal skills, who is eager to learn, and who does not seem like they will jump ship in the first year of employment.</li>
 			<li>Wants to find a dev willing to learn Python, with a strong version control workflow.  Should be comfortable using git on day one.</li>
-			<li>Need to quickly find link to applicant's github and LinkeIn on first visiting the site.</li>
+			<li>Need to quickly find link to applicant's github and LinkedIn on first visiting the site.</li>
 		</ul>
 		<h3>Technology</h3>
 		<ul>
