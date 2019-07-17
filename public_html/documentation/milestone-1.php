@@ -46,7 +46,7 @@
 		<ul>
 			<li>Busy with meetings and managerial duties, cannot afford to spend more than 3-5 minutes looking at an applicant before deciding whether to move forward with the interview process.</li>
 			<li>Willing to hire a developer with less experience if they seem like they would fit with the company culture and be loyal to the company.</li>
-			<li>Strongly wants to avoid wasting time on-boarding someone who is going to leave the company after a year or less.  Has been frustrated hiring Junior Developers in the past who have used his company simply as a stepping stone toward a 'better' position.  Really wants to find someone who will the energy to train.</li>
+			<li>Strongly wants to avoid wasting time on-boarding someone who is going to leave the company after a year or less.  Has been frustrated hiring Junior Developers in the past who have used his company simply as a stepping stone toward a 'better' position.  Really wants to find someone who will be worth the energy to train.</li>
 		</ul>
 		<h3>User Story</h3>
 		<p>As a first time user, I need to quickly determine whether this person is worth reaching out to for a phone screen and possible in-person interview.</p>
