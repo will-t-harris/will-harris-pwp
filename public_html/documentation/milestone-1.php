@@ -38,6 +38,11 @@
 			<li>Avid Skier, buys the Taos Pass every year since moving to NM.</li>
 			<li>Likes good food, fancy meals.</li>
 		</ul>
-		<p>Persona goes here</p>
+		<h3>Attitude/Behavior</h3>
+		<ul>
+			<li>Busy with meetings and managerial duties, cannot afford to spend more than 3-5 minutes looking at an applicant before deciding whether to move forward with the interview process.</li>
+			<li>Willing to hire a developer with less experience if they seem like they would fit with the company culture and be loyal to the company.</li>
+			<li>Strongly wants to avoid wasting time on-boarding someone who is going to leave the company after a year or less.</li>
+		</ul>
 	</body>
 </html>
