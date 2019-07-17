@@ -16,9 +16,15 @@
 		<img src="bob-needadev.jpg" alt="image of bob needadev" />
 		<ul>
 			<li><strong>Name:</strong> Bob Needadev</li>
-			<li><strong>Age:</strong> 40</li>
-			<li><strong>Profession:</strong> NM Dev Lab co-founder and head of technical security.  Looking for an experienced full-stack web developer to bring on as a Junior Developer.</li>
-			<li><strong>Technology:</strong></li>
+			<li><strong>Age:</strong> 42</li>
+			<li><strong>Profession:</strong> Tech Solutions Lab co-founder and head of technical security.  Looking for an experienced full-stack web developer to bring on as a Junior Developer.</li>
+		</ul>
+		<h3>Background</h3>
+		<ul>
+			<li>Originally from small midwest town.</li>
+			<li>Bachelor's Degree in Anthropology from Oberlin College in Ohio.</li>
+			<li>Master's Degree in Electrical Engineering from Brown University in Rhode Island</li>
+			<li>Moved to NM because of proximity to national labs, relatively low cost of living, burgeoning tech scene, and 350+ days of sun per year.</li>
 		</ul>
 		<h3>Needs/Wants to Find</h3>
 		<ul>
