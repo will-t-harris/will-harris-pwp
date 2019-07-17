@@ -48,5 +48,7 @@
 			<li>Willing to hire a developer with less experience if they seem like they would fit with the company culture and be loyal to the company.</li>
 			<li>Strongly wants to avoid wasting time on-boarding someone who is going to leave the company after a year or less.</li>
 		</ul>
+		<h3>User Story</h3>
+		<p>As a first time user, I need to quickly determine whether this person is worth reaching out to for a phone screen and possible in-person interview.</p>
 	</body>
 </html>
