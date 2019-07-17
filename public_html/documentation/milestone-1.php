@@ -26,12 +26,10 @@
 			<li>Master's Degree in Electrical Engineering from Brown University in Rhode Island</li>
 			<li>Moved to NM because of proximity to national labs, relatively low cost of living, burgeoning tech scene, and 350+ days of sun per year.</li>
 		</ul>
-		<h3>Needs/Wants to Find</h3>
+		<h3>Goal in Using Site</h3>
 		<ul>
-			<li>Team-player with strong communication/inter-personal skills</li>
-			<li>Loyal young worker that is eager to learn, and who does not seem like they will jump ship in the first year of employment.</li>
-			<li>Dev with willingness to learn Python</li>
-			<li>Dev with a strong grasp of VCS and a strong version control workflow</li>
+			<li>Wants to find a team player with strong communication/inter-personal skills, who is eager to learn, and who does not seem like they will jump ship in the first year of employment.</li>
+			<li>Wants to find a dev willing to learn Python, with a strong version control workflow.  Should be comfortable using git on day one.</li>
 		</ul>
 		<h3>Technology</h3>
 		<ul>
