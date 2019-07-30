@@ -16,9 +16,9 @@
 	<p><em>Get In Touch/Contact Form:</em></p>
 	<p><em>Footer Section:</em> I want this section to have the same dark blue background and light gold color scheme and texture from the welcome sections.  Will include another set of social media icon links (on mobile view only) and copyright text.</p>
 	<h2>Wireframes</h2>
-	<h3>Desktop View</h3>
-	<img />
 	<h3>Mobile View</h3>
-	<img />
+	<img src="images/pwp-wireframe-mobile.jpg" alt="mobile wireframe for pwp milestone 2" />
+	<h3>Desktop View</h3>
+	<img src="images/pwp-wireframe-desktop.jpg" alt="desktop wireframe for pwp milestone 2" />
 </body>
 </html>
