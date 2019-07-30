@@ -8,12 +8,13 @@
 	<h1>PWP Milestone 2</h1>
 
 	<h2>Content Strategy</h2>
-	<p><em>Welcome Page (desktop):</em> fixed left half section of the desktop view with textured background.  Happy with how this looks so far, I think it gives a good degree of depth to the page.  Also want to include logos as links to my social media accounts in this section (github/linkedin/maybe instagram.  Want to include micro-animations for these logos from (useanimations.com)</p>
-	<p><em>Welcome Section (mobile):</em> I want to include the same texture and welcome message in the top third or so of the screen.  Social media images at top left with same micro-animations, if they will still work on mobile.</p>
+	<p><em>Welcome Section (desktop view):</em> fixed left half section of the desktop view with textured background.  Happy with how this looks so far, I think it gives a good degree of depth to the page.  Also want to include logos as links to my social media accounts in this section (github/linkedin/twitter/maybe instagram.  Want to include micro-animations for these logos from (useanimations.com)</p>
 	<p>The right half of the desktop view I want to scroll while the left half remains static.  I want the texture effect to always be present on the site.</p>
-	<p><em>Welcome Text:</em> a short introduction clearly stating my name and role as a web developer.  This welcome message will be overlaid on the textured background of my welcome section.  </p>
-	<p><em>About Me:</em> Two short paragraphs describing my background/history and my current interests in technology/programming.</p>
-	<p><em>Get In Touch/Contact Form</em> </p>
+	<p><em>Welcome Section (mobile view):</em> I want to include the same texture and welcome message in the top third or so of the screen.  Social media images at top left with same micro-animations, if they will still work on mobile.</p>
+	<p><em>Welcome Text:</em> a short introduction clearly stating my name and role as a web developer.  This welcome message will be overlaid on the textured background of my welcome section, and will be directly below a small image of me (still waiting on a head-shot to come back via Dan).</p>
+	<p><em>About Me:</em> Two short paragraphs describing my background/history and my current interests in technology/programming. I want this to be short but compelling.</p>
+	<p><em>Get In Touch/Contact Form:</em></p>
+	<p><em>Footer Section:</em> I want this section to have the same dark blue background and light gold color scheme and texture from the welcome sections.  Will include another set of social media icon links (on mobile view only) and copyright text.</p>
 	<h2>Wireframes</h2>
 	<h3>Desktop View</h3>
 	<img />
