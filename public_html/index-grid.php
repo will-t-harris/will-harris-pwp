@@ -8,6 +8,13 @@
 	<title>PWP With Grid</title>
 </head>
 <body>
-
+	<section>
+		<div class="left-half">
+			<article>
+				<h1>Left Half</h1>
+				<p>Filler text for the left half display</p>
+			</article>
+		</div>
+	</section>
 </body>
 </html>
