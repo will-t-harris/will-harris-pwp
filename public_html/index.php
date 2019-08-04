@@ -18,7 +18,7 @@
 	<title>Hello, world!</title>
 </head>
 <body>
-	<div class="container-fluid">
+	<div class="container-fluid" id="left-container">
 		<div class="row-fluid">
 			<div class="col-sm-6">
 				<img src="documentation/images/square-image.jpg" alt="placeholder square image" class="img-fluid">

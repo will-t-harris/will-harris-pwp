@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#left-container {
+	float: left;
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 50%;
+	background-color: purple;
+}
