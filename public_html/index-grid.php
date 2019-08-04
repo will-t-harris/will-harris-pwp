@@ -15,6 +15,12 @@
 				<p>Filler text for the left half display</p>
 			</article>
 		</div>
+		<div class="right-half">
+			<article>
+				<h1>Right Half</h1>
+				<p>Filler text for the right half display</p>
+			</article>
+		</div>
 	</section>
 </body>
 </html>
