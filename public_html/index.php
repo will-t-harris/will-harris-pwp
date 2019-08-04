@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 	<!-- Link my CSS files here	-->
+	<link rel="stylesheet" href="styles.css/style.css" type="text/css"/>
 
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -18,9 +19,9 @@
 </head>
 <body>
 	<div class="container-fluid">
-		<div class="row">
-			<div class="col-s-6 bg-danger">
-				<div class="h-100 w-50 bg-danger"></div>
+		<div class="row-fluid">
+			<div class="col-sm-6">
+				<img src="documentation/images/square-image.jpg" alt="placeholder square image" class="img-fluid">
 			</div>
 		</div>
 	</div>
