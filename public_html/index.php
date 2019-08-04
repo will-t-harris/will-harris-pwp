@@ -17,6 +17,12 @@
 	<title>Hello, world!</title>
 </head>
 <body>
-<h1>Hello, world!</h1>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-s-6 bg-danger">
+				<div class="h-100 w-50 bg-danger"></div>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
