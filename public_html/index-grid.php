@@ -12,14 +12,14 @@
 	<section class="container">
 		<div class="left-half">
 			<article>
-				<h1>Left Half</h1>
-				<p>Filler text for the left half display</p>
+				<div class="left-half-container">
+					<h1>Left Half</h1>
+				</div>
 			</article>
 		</div>
 		<div class="right-half">
 			<article>
 				<h1>Right Half</h1>
-				<p>Filler text for the right half display</p>
 			</article>
 		</div>
 	</section>
