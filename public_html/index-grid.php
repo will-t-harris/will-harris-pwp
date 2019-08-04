@@ -5,10 +5,11 @@
 	<meta name="viewport"
 			content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" type="text/css" href="styles/style-grid.css" />
 	<title>PWP With Grid</title>
 </head>
 <body>
-	<section>
+	<section class="container">
 		<div class="left-half">
 			<article>
 				<h1>Left Half</h1>

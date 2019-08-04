@@ -1,0 +1,14 @@
+/* Layout Styles */
+.container {
+	display: grid;
+}
+
+.left-half {
+	grid-column: 1;
+	background-color: palegoldenrod;
+}
+
+.right-half {
+	grid-column: 2;
+	background-color: aquamarine;
+}
