@@ -18,21 +18,19 @@ html, body, section, div {
 }
 
 .left-half-container {
-	display: flex;
+	display: grid;
 	justify-content: center;
+	color: #e3e3e3;
 }
 
-.left-half-container > h2 {
+.left-half-container > img {
 	align-self: center;
 	justify-self: center;
-	text-align: center;
-}
-
-.left-half-container h1 {
-	align-self: center;
 }
 
 .right-half {
 	grid-column: 2;
 	background-color: #FEEDCE;
+	color: #1F405F;
 }
+
