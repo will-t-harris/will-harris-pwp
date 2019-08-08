@@ -13,7 +13,8 @@
 		<div class="left-half">
 			<article>
 				<div class="left-half-container">
-					<h1>Left Half</h1>
+					<img src="" alt="picture of me" />
+					<h2>I'm Will.  A Web Developer</h2>
 				</div>
 			</article>
 		</div>
