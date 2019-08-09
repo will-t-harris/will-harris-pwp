@@ -32,7 +32,23 @@ html, body, section, div {
 
 .right-half {
 	grid-column: 2;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
 	background-color: #FEEDCE;
 	color: #1F405F;
 }
 
+.section-title {
+	grid-column: 2;
+	justify-self: center;
+}
+
+.section-text {
+	grid-column: 2;
+}
+
+@media (max-width: 400px) {
+	p {
+		font-size: 2rem;
+	}
+}
