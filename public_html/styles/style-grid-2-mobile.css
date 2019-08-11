@@ -72,4 +72,16 @@ html {
 		height: 20vh;
 		color: #e3e3e3;
 	}
+
+	.footer-icon-container {
+		display: flex;
+		height: 20vh;
+		font-size: 2rem;
+		text-align: center;
+	}
+
+	.footer-icon-container a {
+		align-self: center;
+		margin: 3vmax;
+	}
 }
