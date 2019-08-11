@@ -29,19 +29,29 @@ html {
 		grid-template-columns: repeat(4, 1fr);
 	}
 
+	.fab {
+		color: #e3e3e3;
+	}
 	.welcome-section img {
-
+		height: 50vh;
 		grid-column: 2/span 2;
 		margin: auto auto;
 	}
 
 	.welcome-section h1 {
 		grid-column: 2/ 3;
+		font-size: 2rem;
 	}
 
-	.welcome-section p {
+	.icon-container {
 		grid-column: 4/5;
-		align-self: end;
+		display: flex;
+	}
+
+	.icon-container i {
+		align-self: flex-end;
+		padding: .75vmax;
+		font-size: 2rem;
 	}
 
 	.about-me-section {
