@@ -33,9 +33,14 @@ html {
 		color: #e3e3e3;
 	}
 
-	.welcome-section img {
-		height: 50vh;
+	.content-container {
+		margin-top: 5vh;
 		grid-column: 2/4;
+	}
+
+	.welcome-section img {
+		max-width: 100%;
+		height: auto;
 	}
 
 	.welcome-section h1 {
@@ -81,8 +86,10 @@ html {
 	.footer-icon-container {
 		display: flex;
 		height: 12vh;
+		font-size: 2rem;
 	}
 
 	.footer-icon-container a {
 		justify-content: flex-end;
+		margin: 3vmin;
 	}
