@@ -61,16 +61,19 @@ html {
 
 	.about-me-section {
 		background: #FEEDCE;
+		color: #1F405F;
 		grid-column: 7/-1;
 	}
 
 	.projects-section {
 		background: #FEEDCE;
+		color: #1F405F;
 		grid-column: 7/-1;
 	}
 
 	.contact-section {
 		background: #FEEDCE;
+		color: #1F405F;
 		grid-column: 7/-1;
 	}
 
