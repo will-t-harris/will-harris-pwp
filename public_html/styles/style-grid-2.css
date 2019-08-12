@@ -84,12 +84,5 @@ html {
 	}
 
 	.footer-icon-container {
-		display: flex;
-		height: 12vh;
-		font-size: 2rem;
-	}
-
-	.footer-icon-container a {
-		justify-content: flex-end;
-		margin: 3vmin;
+		display: n
 	}
