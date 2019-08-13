@@ -75,6 +75,11 @@ html {
 		background: #FEEDCE;
 		color: #1F405F;
 		grid-column: 7/-1;
+		display: inline;
+	}
+
+	.contact-section div {
+		height: 20vh;
 	}
 
 	.footer-section {
