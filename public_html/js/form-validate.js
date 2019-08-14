@@ -32,7 +32,10 @@ $(document).ready(function(){
 				email: true,
 				required: true
 			},
-			message: {
+			contactSubject: {
+				required: false,
+			},
+			contactMessage: {
 				required: true,
 				maxlength: 2000
 			}
@@ -47,7 +50,7 @@ $(document).ready(function(){
 				email: "Please enter a valid email address.",
 				required: "Please enter a valid email address."
 			},
-			message: {
+			contactMessage: {
 				required: "Please enter a message.",
 				maxlength: "2000 characters max."
 			}
@@ -68,7 +71,7 @@ $(document).ready(function(){
 
 					// reset the form if it was successful
 					if($(".alert-success").length >= 1) {
-						$("#my-contact-form")[0].reset();
+						$("#contact-form")[0].reset();
 					}
 				}
 			})
