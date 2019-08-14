@@ -6,7 +6,7 @@ html, body, section, div {
 
 html {
 	font-size: 62.5%;
-	/*box-sizing: border-box;*/
+	box-sizing: border-box;
 }
 
 /* STYLES FOR DESKTOP VIEW*/
@@ -55,7 +55,7 @@ html {
 
 	.welcome-icon-container a {
 		align-self: flex-end;
-		padding: .75vmax;
+		margin: .75vmax;
 		font-size: 2rem;
 	}
 
@@ -75,7 +75,6 @@ html {
 		background: #FEEDCE;
 		color: #1F405F;
 		grid-column: 7/-1;
-		display: inline;
 	}
 
 	.contact-section div {

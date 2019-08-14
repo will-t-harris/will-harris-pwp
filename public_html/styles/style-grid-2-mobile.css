@@ -60,6 +60,7 @@ html {
 		grid-column: 1/-1;
 		height: 50vh;
 		color: #1F405F;
+		display: none;
 	}
 
 	.footer-section {
