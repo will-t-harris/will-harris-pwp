@@ -37,7 +37,6 @@ try {
 
 	$name = filter_input(INPUT_POST, "contactInput", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$email = filter_input(INPUT_POST, "contactEmail", FILTER_SANITIZE_EMAIL);
-	$subject = filter_input(INPUT_POST, "subject", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 	$message = filter_input(INPUT_POST, "contactMessage", FILTER_SANITIZE_STRING, FILTER_FLAG_NO_ENCODE_QUOTES);
 
 

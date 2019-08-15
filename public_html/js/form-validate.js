@@ -32,9 +32,6 @@ $(document).ready(function(){
 				email: true,
 				required: true
 			},
-			contactSubject: {
-				required: false,
-			},
 			contactMessage: {
 				required: true,
 				maxlength: 2000
