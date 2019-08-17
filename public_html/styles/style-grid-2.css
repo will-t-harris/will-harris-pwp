@@ -68,7 +68,8 @@ html {
 
 	.about-me-section p {
 		font-size: 1.5rem;
-		padding-left: 7vw;
+		line-height: 2.6rem;
+		padding: 2vh 3vw 0 4vw;
 	}
 
 	.projects-section {
