@@ -62,7 +62,13 @@ html {
 	.about-me-section {
 		background: #FEEDCE;
 		color: #1F405F;
+		height: 66vh;
 		grid-column: 7/-1;
+	}
+
+	.about-me-section p {
+		font-size: 1.5rem;
+		padding-left: 7vw;
 	}
 
 	.projects-section {
