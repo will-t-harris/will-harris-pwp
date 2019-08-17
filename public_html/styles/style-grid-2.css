@@ -1,4 +1,4 @@
-html, body, section, div {
+html, body, section {
 	height: 100vh;
 	margin: 0;
 	padding: 0;
@@ -15,7 +15,6 @@ html {
 	.grid-container {
 		display: grid;
 		grid-template-columns: repeat(12, 1fr);
-		grid-template-rows: repeat(12, 1fr);
 	}
 
 	.welcome-section {
@@ -104,6 +103,7 @@ html {
 
 	.contact-section {
 		grid-column: 7/-1;
+		height: 60vh;
 		background: #FEEDCE;
 		color: #1F405F;
 	}
@@ -114,22 +114,24 @@ html {
 
 	.contact-section label {
 		padding-left: 4vw;
+		height: 2vh;
+	}
+
+	.contact-section textarea {
+		box-sizing: border-box;
+		width: 50%;
+	}
+
+	.g-recaptcha {
+		padding-left: 4vw;
+	}
+
+	button {
+		margin-left: 4vw;
 	}
 
 	.input-group {
 		padding-left: 4vw;
-	}
-
-	.form-group {
-		height: 15vh;
-	}
-
-	.form-group label {
-		height: 15vh;
-	}
-
-	.g-recaptcha {
-		padding-top: 10vh;
 	}
 
 	.footer-section {
