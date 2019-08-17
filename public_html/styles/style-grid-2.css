@@ -64,6 +64,11 @@ html {
 		background: #FEEDCE;
 		color: #1F405F;
 		height: 66vh;
+		padding-top: 1vh;
+	}
+
+	.about-me-section h2 {
+		padding-left: 2vw;
 	}
 
 	.about-me-section p {
@@ -74,8 +79,14 @@ html {
 
 	.projects-section {
 		grid-column: 7/-1;
+		padding-top: 1vh;
+		height: 40vh;
 		background: #FEEDCE;
 		color: #1F405F;
+	}
+
+	.projects-section h2 {
+		padding-left: 2vw;
 	}
 
 	.projects-section a {
@@ -97,8 +108,28 @@ html {
 		color: #1F405F;
 	}
 
-	.contact-section div {
+	.contact-section h2 {
+		padding-left: 2vw;
+	}
+
+	.contact-section label {
+		padding-left: 4vw;
+	}
+
+	.input-group {
+		padding-left: 4vw;
+	}
+
+	.form-group {
 		height: 15vh;
+	}
+
+	.form-group label {
+		height: 15vh;
+	}
+
+	.g-recaptcha {
+		padding-top: 10vh;
 	}
 
 	.footer-section {
