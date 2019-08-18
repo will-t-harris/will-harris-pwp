@@ -44,7 +44,8 @@ html {
 
 	.welcome-section h1 {
 		grid-column: 2/ 3;
-		font-size: 2rem;
+		font-size: 3rem;
+		font-family: 'Lato', sans-serif;
 	}
 
 	.welcome-icon-container {
@@ -78,7 +79,7 @@ html {
 
 	.projects-section {
 		grid-column: 7/-1;
-		padding-top: 1vh;
+		padding-top: 3vh;
 		height: 40vh;
 		background: #FEEDCE;
 		color: #1F405F;
@@ -89,7 +90,6 @@ html {
 	}
 
 	.projects-section a {
-		margin-top: 10vh;
 		padding-left: 4vw;
 		text-decoration: none;
 		font-size: 1.5rem;
@@ -100,12 +100,15 @@ html {
 		padding-left: 1vw;
 	}
 
-	.abq-bike-container .bikesandbytes-container {
+	.abq-bike-container {
 		display: flex;
 	}
 
+	.bikesandbytes-container {
+		display: flex;
+	}
 	.abq-bike-container > a {
-		align-content: center;
+		align-self: center;
 		padding-right: 2rem;
 		justify-content: space-evenly;
 	}
@@ -115,7 +118,7 @@ html {
 	}
 
 	.bikesandbytes-container > a {
-		align-content: center;
+		align-self: center;
 		padding-right: 2rem;
 		justify-content: space-evenly;
 	}
