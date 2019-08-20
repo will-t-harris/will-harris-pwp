@@ -109,19 +109,29 @@ html {
 	}
 	.contact-section {
 		grid-column: 1/-1;
-		width: 100vw;
+		/*width: 100vw;*/
 		background: #FEEDCE;
 		height: 50vh;
 		padding-bottom: 10vh;
 		color: #1F405F;
 	}
 
-	.contact-section input {
-		width: 75vw;
+	.contact-section h2 {
+		padding-left: 3vw;
+	}
+
+	.contact-section label {
+		padding-left: 3vw;
+		height: 2vh;
 	}
 
 	.contact-section button {
 		margin-top: -7.5vh;
+	}
+
+	.contact-section textarea {
+		box-sizing: border-box;
+		width: 50%;
 	}
 
 	.g-recaptcha {
@@ -129,6 +139,32 @@ html {
 		-webkit-transform: scale(0.5);
 		transform-origin: 0 0;
 		-webkit-transform-origin: 0 0;
+		padding-left: 6vw;
+	}
+
+	button {
+		margin-left: 4vw;
+		background-color: #1F405F;
+		color: #FEEDCE;
+		border-color: #1F405F;
+	}
+
+	button:hover {
+		background-color: #ffffff;
+		color: #1F405F;
+		border-color: #1F405F;
+	}
+
+	.form-group {
+		margin-bottom: 2rem;
+	}
+
+	.required {
+		color: darkred;
+	}
+
+	.input-group {
+		padding-left: 6vw;
 	}
 
 	.footer-section {
