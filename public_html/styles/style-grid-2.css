@@ -154,6 +154,17 @@ html {
 
 	button {
 		margin-left: 4vw;
+		background-color: #1F405F;
+		color: #FEEDCE;
+		border-color: #1F405F;
+	}
+
+	.form-group {
+		margin-bottom: 2rem;
+	}
+
+	.required {
+		color: darkred;
 	}
 
 	.input-group {
@@ -163,3 +174,9 @@ html {
 	.footer-section {
 		display: none;
 	}
+
+button:hover {
+	background-color: #ffffff;
+	color: #1F405F;
+	border-color: #1F405F;
+}
