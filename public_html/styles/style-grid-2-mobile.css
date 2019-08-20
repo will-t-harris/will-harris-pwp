@@ -46,8 +46,16 @@ html {
 		background: #FEEDCE;
 		height: 66vh;
 		color: #1F405F;
-		font-size: 1.5rem;
+	}
+
+	.about-me-section h2 {
+		padding-left: 3vw;
+	}
+
+	.about-me-section > p {
+		font-size: 1.2rem;
 		line-height: 2rem;
+		padding: 2vh 6vw 0 6vw;
 	}
 
 	.projects-section {
@@ -58,18 +66,18 @@ html {
 	}
 
 	.projects-section h2 {
-		padding-left: 2vw;
+		padding-left: 3vw;
 	}
 
 	.projects-section a {
-		padding-left: 4vw;
+		padding-left: 6vw;
 		text-decoration: none;
 		font-size: 1.5rem;
 		color: #1F405F;
 	}
 
 	.projects-section svg {
-		padding-left: 1vw;
+		padding-left: 2vw;
 	}
 
 	.abq-bike-container {
@@ -78,11 +86,25 @@ html {
 
 	.abq-bike-container > a {
 		align-self: center;
-		padding-right: 2rem;
+		padding-right: 3rem;
 		justify-content: space-evenly;
 	}
 
 	.abq-bike-container > img {
+		width: 7rem;
+	}
+
+	.bikesandbytes-container {
+		display: flex;
+	}
+
+	.bikesandbytes-container > a {
+		align-self: center;
+		padding-right: 2rem;
+		justify-content: space-evenly;
+	}
+
+	.bikesandbytes-container > img {
 		width: 7rem;
 	}
 	.contact-section {
