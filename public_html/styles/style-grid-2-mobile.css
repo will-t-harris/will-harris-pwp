@@ -68,6 +68,23 @@ html {
 		color: #1F405F;
 	}
 
+	.projects-section svg {
+		padding-left: 1vw;
+	}
+
+	.abq-bike-container {
+		display: flex;
+	}
+
+	.abq-bike-container > a {
+		align-self: center;
+		padding-right: 2rem;
+		justify-content: space-evenly;
+	}
+
+	.abq-bike-container > img {
+		width: 7rem;
+	}
 	.contact-section {
 		grid-column: 1/-1;
 		width: 100vw;
