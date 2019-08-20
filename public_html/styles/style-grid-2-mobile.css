@@ -28,7 +28,7 @@ html {
 		align-self: center;
 		color: #e3e3e3;
 		display: grid;
-		font-family: Roboto, sans-serif;
+		font-family: 'Lato', sans-serif;
 	}
 
 	.welcome-section img {
@@ -46,12 +46,25 @@ html {
 		background: #FEEDCE;
 		height: 66vh;
 		color: #1F405F;
+		font-size: 1.5rem;
+		line-height: 2rem;
 	}
 
 	.projects-section {
 		grid-column: 1/-1;
 		background: #FEEDCE;
 		height: 40vh;
+		color: #1F405F;
+	}
+
+	.projects-section h2 {
+		padding-left: 2vw;
+	}
+
+	.projects-section a {
+		padding-left: 4vw;
+		text-decoration: none;
+		font-size: 1.5rem;
 		color: #1F405F;
 	}
 
