@@ -32,7 +32,7 @@ html {
 	}
 
 	.welcome-section img {
-		padding-top: 2vh;
+		padding-top: 10vh;
 		max-width: 100%;
 		height: auto;
 	}
@@ -61,7 +61,7 @@ html {
 	.projects-section {
 		grid-column: 1/-1;
 		background: #FEEDCE;
-		height: 40vh;
+		height: 35vh;
 		color: #1F405F;
 	}
 
@@ -139,11 +139,11 @@ html {
 		-webkit-transform: scale(0.5);
 		transform-origin: 0 0;
 		-webkit-transform-origin: 0 0;
-		padding-left: 6vw;
+		padding-left: 12vw;
 	}
 
 	button {
-		margin-left: 4vw;
+		margin-left: 6vw;
 		background-color: #1F405F;
 		color: #FEEDCE;
 		border-color: #1F405F;
