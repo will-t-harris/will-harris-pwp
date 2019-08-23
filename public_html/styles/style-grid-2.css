@@ -104,10 +104,12 @@ html {
 
 .abq-bike-container {
 	display: flex;
+	margin-top: 3vh;
 }
 
 .bikesandbytes-container {
 	display: flex;
+	margin-top: 3vh;
 }
 .abq-bike-container > a {
 	align-self: center;
