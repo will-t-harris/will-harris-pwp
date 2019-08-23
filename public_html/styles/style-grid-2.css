@@ -69,10 +69,11 @@ html {
 
 .about-me-section h2 {
 	padding-left: 2vw;
+	font-size: 2.5rem;
 }
 
 .about-me-section p {
-	font-size: 1.5rem;
+	font-size: 2rem;
 	line-height: 2.6rem;
 	padding: 2vh 3vw 0 4vw;
 }
@@ -87,12 +88,13 @@ html {
 
 .projects-section h2 {
 	padding-left: 2vw;
+	font-size: 2.5rem;
 }
 
 .projects-section a {
 	padding-left: 4vw;
 	text-decoration: none;
-	font-size: 1.5rem;
+	font-size: 2rem;
 	color: #1F405F;
 }
 
@@ -136,11 +138,13 @@ html {
 
 .contact-section h2 {
 	padding-left: 2vw;
+	font-size: 2.5rem;
 }
 
 .contact-section label {
 	padding-left: 4vw;
 	height: 2vh;
+	font-size: 1.5rem;
 }
 
 .contact-section textarea {
@@ -162,8 +166,8 @@ button {
 
 button:hover {
 	background-color: #ffffff;
+	border-color: #ffffff;
 	color: #1F405F;
-	border-color: #1F405F;
 }
 
 .form-group {
@@ -180,5 +184,12 @@ button:hover {
 
 .footer-section {
 	display: none;
+}
+
+#output-area {
+	font-size: 1.5rem;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	color: darkred;
 }
 
