@@ -45,7 +45,7 @@ html {
 	.about-me-section {
 		grid-column: 1/-1;
 		background: #F2E4B5;
-		height: 66vh;
+		height: 50vh;
 		color: #1F405F;
 	}
 
@@ -62,7 +62,7 @@ html {
 	.projects-section {
 		grid-column: 1/-1;
 		background: #F2E4B5;
-		height: 35vh;
+		height: 50vh;
 		color: #1F405F;
 	}
 
@@ -70,7 +70,7 @@ html {
 		padding-left: 3vw;
 	}
 
-	.projects-section a {
+	.projects-section p {
 		padding-left: 6vw;
 		text-decoration: none;
 		font-size: 1.5rem;
@@ -85,7 +85,7 @@ html {
 		display: flex;
 	}
 
-	.abq-bike-container > a {
+	.abq-bike-container > p {
 		align-self: center;
 		padding-right: 3rem;
 		justify-content: space-evenly;
@@ -99,7 +99,7 @@ html {
 		display: flex;
 	}
 
-	.bikesandbytes-container > a {
+	.bikesandbytes-container > p {
 		align-self: center;
 		padding-right: 2rem;
 		justify-content: space-evenly;
