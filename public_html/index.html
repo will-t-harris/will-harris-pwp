@@ -14,98 +14,107 @@
 	<title>Will Harris' Personal Website</title>
 </head>
 <body>
-	<div class="grid-container">
-		<!--Welcome Section-->
-		<div class="welcome-section">
-			<div class="content-container">
-				<img src="documentation/images/Will-headshot.jpg" alt="picture of will"/>
-				<h1>Hi! I'm Will! I'm passionate about digital autonomy, privacy, free & open-source software, and bikes!</h1>
-			</div>
-			<div class="welcome-icon-container">
-				<a href="https://twitter.com/wtharris89" target="_blank"><i class="fab fa-twitter-square"></i></a>
-				<a href="https://github.com/will-t-harris" target="_blank"><i class="fab fa-github"></i></a>
-				<a href="https://www.linkedin.com/in/will-t-harris/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-				<a href="https://www.instagram.com/willbikes/" target="_blank"><i class="fab fa-instagram"></i></a>
-			</div>
+<div class="grid-container">
+	<!--Welcome Section-->
+	<div class="welcome-section">
+		<div class="content-container">
+			<img src="documentation/images/Will-headshot.jpg" alt="picture of will"/>
+			<h1>Hi! I'm Will! I'm passionate about digital autonomy, privacy, free & open-source software, and bikes!</h1>
 		</div>
-		<!--About Me Section-->
-		<div class="about-me-section">
-			<h2>ABOUT ME</h2>
-			<p>I'm a full-stack web developer and recent graduate of the full-stack Deep Dive Coding bootcamp in downtown Albuquerque, New Mexico. I worked on a small team of fellow students to create a safety-focused bike trails application for the Albuquerque area, built with MySQL, PHP, and React. Click on the project button below to find out more! I'm currently looking for work as a Junior Developer and am curious to learn more about data science and open source software.</p>
-			<p>Interested in working together?  Drop me a line through the contact form below!</p>
-		</div>
-		<!--Projects Section-->
-		<div class="projects-section">
-			<h2>PROJECTS</h2>
-			<div class="abq-bike-container">
-				<p>ABQ Bike Trails<p>
-				<p>This is the my group's capstone project for Deep Dive Coding's Full Stack Bootcamp.  We are building an Albuquerque-area bike trails app that will use Mapbox and React to render the city's open bike route information.</p>
-<!--				<img src="documentation/images/bike-abq.png" alt="bike abq logo" />-->
-			</div>
-			<div class="bikesandbytes-container">
-				<p>Bikesandbytes Personal Blog(under construction)</p>
-				<img src="documentation/images/BnBlogo.png" alt="bikesandbytes black logo" />
-			</div>
-		</div>
-		<!--Contact Section-->
-		<div class="contact-section">
-			<h2>GET IN TOUCH</h2>
-			<form action="../php/" id="contact-form" method="post">
-				<div class="form-group">
-					<label for="name">Name <span class="required">*</span></label>
-					<div class="input-group">
-<!--						<div class="input-group-prepend">-->
-<!--							<span class="input-group-text"></span>-->
-<!--							<i class="fa fa-user" aria-hidden="true"></i>-->
-<!--						</div>-->
-						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
-					</div>
-				</div>
-				<div class="form-group">
-					<label for="email">Email <span class="required">*</span></label>
-					<div class="input-group">
-<!--						<div class="input-group-prepend">-->
-<!--							<span class="input-group-text"></span>-->
-<!--							<i class="fa fa-envelope" aria-hidden="true"></i>-->
-<!--						</div>-->
-						<input type="email" class="form-control" id="email" name="email" placeholder="Email">
-					</div>
-				</div>
-				<div class="form-group">
-					<label for="message">Message <span class="required">*</span></label>
-					<div class="input-group">
-<!--						<div class="input-group-prepend">-->
-<!--							<span class="input-group-text"></span>-->
-<!--							<i class="fa fa-comment" aria-hidden="true"></i>-->
-<!--						</div>-->
-						<textarea class="form-control" name="message" id="message" placeholder="(2000 characters max)"></textarea>
-					</div>
-				</div>
-
-				<!-- reCAPTCHA -->
-				<div class="g-recaptcha" data-sitekey="6Lc4CrMUAAAAANhoOJFvKCTNXz8TCVe9BUZnO23K"></div>
-
-				<button type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-				<button type="reset"><i class="fa fa-ban"></i> Reset</button>
-			</form>
-
-			<!-- empty area for form error/success output -->
-			<div id="output">
-				<div id="output-area"></div>
-			</div>
-		</div>
-		<div class="footer-section">
-			<div class="footer-icon-container">
-				<a href="https://github.com/will-t-harris" target="_blank"><i class="fab fa-github"></i></a>
-				<a href="https://www.linkedin.com/in/will-t-harris/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-				<a href="https://twitter.com/will_harris_dev" target="_blank"><i class="fab fa-twitter"></i></a>
-				<a href="https://www.instagram.com/willbikes/" target="_blank"><i class="fab fa-instagram"></i></a>
-			</div>
+		<div class="welcome-icon-container">
+			<a href="https://twitter.com/wtharris89" target="_blank"><i class="fab fa-twitter-square"></i></a>
+			<a href="https://github.com/will-t-harris" target="_blank"><i class="fab fa-github"></i></a>
+			<a href="https://www.linkedin.com/in/will-t-harris/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+			<a href="https://www.instagram.com/willbikes/" target="_blank"><i class="fab fa-instagram"></i></a>
 		</div>
 	</div>
+	<!--About Me Section-->
+	<div class="about-me-section">
+		<h2>ABOUT ME</h2>
+		<p>I'm a full-stack web developer and recent graduate of the full-stack Deep Dive Coding bootcamp in downtown
+			Albuquerque, New Mexico. I worked on a small team of fellow students to create a safety-focused bike trails
+			application for the Albuquerque area, built with MySQL, PHP, and React. Click on the project button below to
+			find out more! I'm currently looking for work as a Junior Developer and am curious to learn more about data
+			science and open source software.</p>
+		<p>Interested in working together? Drop me a line through the contact form below!</p>
+	</div>
+	<!--Projects Section-->
+	<div class="projects-section">
+		<h2>PROJECTS</h2>
+		<div class="abq-bike-container">
+			<p>ABQ Bike Trails
+			<p>
+			<p>This is the my group's capstone project for Deep Dive Coding's Full Stack Bootcamp. We are building an
+				Albuquerque-area bike trails app that will use Mapbox and React to render the city's open bike route
+				information.</p>
+			<!--				<img src="documentation/images/bike-abq.png" alt="bike abq logo" />-->
+		</div>
+		<div class="bikesandbytes-container">
+			<p>Bikesandbytes Personal Blog(under construction)</p>
+			<img src="documentation/images/BnBlogo.png" alt="bikesandbytes black logo"/>
+		</div>
+	</div>
+	<!--Contact Section-->
+	<div class="contact-section">
+		<h2>GET IN TOUCH</h2>
+		<form action="../php/" id="contact-form" method="post">
+			<div class="form-group">
+				<label for="name">Name <span class="required">*</span></label>
+				<div class="input-group">
+					<!--						<div class="input-group-prepend">-->
+					<!--							<span class="input-group-text"></span>-->
+					<!--							<i class="fa fa-user" aria-hidden="true"></i>-->
+					<!--						</div>-->
+					<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="email">Email <span class="required">*</span></label>
+				<div class="input-group">
+					<!--						<div class="input-group-prepend">-->
+					<!--							<span class="input-group-text"></span>-->
+					<!--							<i class="fa fa-envelope" aria-hidden="true"></i>-->
+					<!--						</div>-->
+					<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="message">Message <span class="required">*</span></label>
+				<div class="input-group">
+					<!--						<div class="input-group-prepend">-->
+					<!--							<span class="input-group-text"></span>-->
+					<!--							<i class="fa fa-comment" aria-hidden="true"></i>-->
+					<!--						</div>-->
+					<textarea class="form-control" name="message" id="message"
+								 placeholder="(2000 characters max)"></textarea>
+				</div>
+			</div>
+
+			<!-- reCAPTCHA -->
+			<div class="g-recaptcha" data-sitekey="6Lc4CrMUAAAAANhoOJFvKCTNXz8TCVe9BUZnO23K"></div>
+
+			<button type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+			<button type="reset"><i class="fa fa-ban"></i> Reset</button>
+		</form>
+
+		<!-- empty area for form error/success output -->
+		<div id="output">
+			<div id="output-area"></div>
+		</div>
+	</div>
+	<div class="footer-section">
+		<div class="footer-icon-container">
+			<a href="https://github.com/will-t-harris" target="_blank"><i class="fab fa-github"></i></a>
+			<a href="https://www.linkedin.com/in/will-t-harris/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+			<a href="https://twitter.com/will_harris_dev" target="_blank"><i class="fab fa-twitter"></i></a>
+			<a href="https://www.instagram.com/willbikes/" target="_blank"><i class="fab fa-instagram"></i></a>
+		</div>
+	</div>
+</div>
 
 <!--jQuery Library CDN-->
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+		  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
 <!--Font Awesome-->
 <script src="https://kit.fontawesome.com/b9ab52e705.js"></script>
