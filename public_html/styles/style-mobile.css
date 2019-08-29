@@ -45,7 +45,7 @@ html {
 	.about-me-section {
 		grid-column: 1/-1;
 		background: #F2E4B5;
-		height: 50vh;
+		height: 45vh;
 		color: #1F405F;
 	}
 
