@@ -99,10 +99,6 @@ html {
 	color: #1F405F;
 }
 
-.projects-section svg {
-	padding-left: 1vw;
-}
-
 .abq-bike-container {
 	display: flex;
 	margin-top: 3vh;
@@ -117,10 +113,6 @@ html {
 	align-self: center;
 	padding-right: 2rem;
 	justify-content: space-evenly;
-}
-
-.abq-bike-container > img {
-	width: 7rem;
 }
 
 .bikesandbytes-container > p {
