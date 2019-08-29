@@ -62,7 +62,7 @@ html {
 	.projects-section {
 		grid-column: 1/-1;
 		background: #F2E4B5;
-		height: 50vh;
+		height: 70vh;
 		color: #1F405F;
 	}
 
@@ -113,7 +113,7 @@ html {
 		grid-column: 1/-1;
 		/*width: 100vw;*/
 		background: #F2E4B5;
-		height: 50vh;
+		height: 62.5vh;
 		padding-bottom: 10vh;
 		color: #1F405F;
 	}
